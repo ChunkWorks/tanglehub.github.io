@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File6:Homepage.txt","Homepage.txt");NDSummary.OnSummaryLoaded("File6:Homepage.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[9,0,0,"Documentation","Documentation"],[11,0,0,"PIPE","PIPE"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("new",["Function"],[["new",,[["Freighter",,,,0,"File:freighter/mod.rs:Freighter.new","rsClass:Freighter:new"],["Pipe",,,,0,"File5:pipe/mod.rs:Pipe.new","rsClass:Pipe:new"]]]]);

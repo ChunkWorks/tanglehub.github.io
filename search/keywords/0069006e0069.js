@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ini",["Function"],[["init",,[["Freighter",,,,0,"File:freighter/mod.rs:Freighter.init","rsClass:Freighter:init"],["Pipe",,,,0,"File5:pipe/mod.rs:Pipe.init","rsClass:Pipe:init"]]]]);

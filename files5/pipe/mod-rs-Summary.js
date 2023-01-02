@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File5:pipe/mod.rs","mod.rs");NDSummary.OnSummaryLoaded("File5:pipe/mod.rs",[["Rust","rs"]],[["Functions","Function"],["Groups","Group"],["Structs","Struct"]],[[34,0,2,"Pipe","Pipe"],[35,0,1,"Functions","Pipe.Functions"],[36,0,0,"new","Pipe.new"],[37,0,0,"init","Pipe.init"]]);

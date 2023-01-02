@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("rsClass:Pipe","Pipe");NDSummary.OnSummaryLoaded("rsClass:Pipe",[["Rust","rs"]],[["Functions","Function"],["Groups","Group"],["Structs","Struct"]],[[34,0,2,"Pipe"],[35,0,1,"Functions","Functions"],[36,0,0,"new","new"],[37,0,0,"init","init"]]);

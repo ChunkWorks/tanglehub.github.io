@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File5:pipe/utils/seed_utils.rs","seed_utils.rs");NDSummary.OnSummaryLoaded("File5:pipe/utils/seed_utils.rs",[["Rust","rs"]],[["Functions","Function"],["Groups","Group"]],[[5,0,1,"Functions","Functions"],[6,0,0,"derive_seed","derive_seed"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sen",["Function"],[["send_message",,[["Freighter",,,,0,"File:freighter/mod.rs:Freighter.send_message","rsClass:Freighter:send_message"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("add",["Struct"],[["Address",,[[,,,,0,"File5:pipe/structs/address.rs:Address","rsClass:Address"]]]]);

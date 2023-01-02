@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nex",["Function"],[["next_custom_processor",,[["Freighter",,,,0,"File:freighter/mod.rs:Freighter.next_custom_processor","rsClass:Freighter:next_custom_processor"]]]]);

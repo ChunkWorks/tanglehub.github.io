@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("doc",["Section"],[["Docker",,[[,"Install on Docker",,,0,"File6:Installing_Pipe-Node.txt:Install_on_Docker"]]],["Documentation",,[[,,,,0,"File6:Homepage.txt:Documentation"]]]]);

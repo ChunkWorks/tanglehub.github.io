@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("rsClass:Chunk","Chunk");NDSummary.OnSummaryLoaded("rsClass:Chunk",[["Rust","rs"]],[["Functions","Function"],["Groups","Group"],["Structs","Struct"]],[[29,0,2,"Chunk"],[30,0,1,"Functions","Functions"],[31,0,0,"from_bytes","from_bytes"],[32,0,0,"get_address","get_address"],[33,0,0,"tag_to_address","tag_to_address"]]);

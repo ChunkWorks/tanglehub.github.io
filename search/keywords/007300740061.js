@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sta",["Section"],[["Started",,[[,"Getting Started",,,0,"File6:Integrating_Freighter_WASM_in_a_webpage.txt:Getting_Started"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rea",["Section"],[["ReactJS",,[[,"Using Freighter WASM in ReactJS",,,0,"File6:Integrating_Freighter_WASM_in_a_webpage.txt:Using_Freighter_WASM_in_ReactJS"]]]]);

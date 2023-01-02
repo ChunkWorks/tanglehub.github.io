@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("web",["Section"],[["Webpage",,[[,"Integrating Freighter WASM in a Webpage",,,0,"File6:Integrating_Freighter_WASM_in_a_webpage.txt:Integrating_Freighter_WASM_in_a_Webpage"],[,"Integrating PIPE WASM in a Webpage",,,0,"File6:Integrating_PIPE_WASM_in_a_webpage.txt:Integrating_PIPE_WASM_in_a_Webpage"]]]]);

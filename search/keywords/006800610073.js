@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("has",["Function"],[["has_tag",,[["ChunkStoreAPI",,,,0,"File5:pipe/storage/chunk_store_api.rs:ChunkStoreAPI.has_tag","rsClass:ChunkStoreAPI:has_tag"]]]]);

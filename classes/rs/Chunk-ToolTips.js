@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({22:"<div class=\"NDToolTip TStruct Lrs\"><div class=\"TTSummary\">Generic type for an address throughout the PIPE network. Typically, an address is the hash of a public key or the content of a chunk.</div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bac",["Function"],[["backward",,[["Freighter",,,,0,"File:freighter/mod.rs:Freighter.backward","rsClass:Freighter:backward"]]]]);

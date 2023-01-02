@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({34:"<div class=\"NDToolTip TStruct Lrs\"><div class=\"TTSummary\">The main struct to spawn a PIPE node, to be used to spawn a node either within another application or in the browser, through the WebAssembly build.</div></div>"});

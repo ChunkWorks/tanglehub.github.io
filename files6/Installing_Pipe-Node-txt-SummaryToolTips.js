@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File6:Installing_Pipe-Node.txt",{13:"<div class=\"NDToolTip TSection LTextFile\"><div class=\"TTSummary\">How to install pipe-node on desktop or server setups, ideal for full nodes or testing applications</div></div>",16:"<div class=\"NDToolTip TSection LTextFile\"><div class=\"TTSummary\">Run How to run a private PIPE network</div></div>"});

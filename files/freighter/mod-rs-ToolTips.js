@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({41:"<div class=\"NDToolTip TFunction Lrs\"><div class=\"TTSummary\">Initializes a newly created Freighter instance</div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("for",["Function"],[["forward",,[["Freighter",,,,0,"File:freighter/mod.rs:Freighter.forward","rsClass:Freighter:forward"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("chu",["Struct"],[["Chunk",,[[,,,,0,"File5:pipe/storage/chunk.rs:Chunk","rsClass:Chunk"]]],["ChunkStoreAPI",,[[,,,,0,"File5:pipe/storage/chunk_store_api.rs:ChunkStoreAPI","rsClass:ChunkStoreAPI"]]]]);
